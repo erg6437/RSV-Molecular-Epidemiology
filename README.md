@@ -3,7 +3,7 @@ Estefany Rios-Guzman, Lacy M. Simons, Taylor J. Dean, Francesca Agnes, Anna Pawl
 # Table of Contents 
 * [Introduction](#Introduction)
 * [Significance and Findings](#Significance-and-Findings)
-* [Study Design](#StudyDesign)  
+* [Study Design](#Study-Design)  
 * [Dependencies](#Dependencies)
 * [Epidemiological Data Sets](#Epidemiological-Data-Sets)
 * [Phylogenetic Data Sets](#Phylogenetic-Data-Sets)
