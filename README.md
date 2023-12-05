@@ -43,6 +43,8 @@ Through a single center retrospective cohort study, we examined the RSV genetic 
 * tableone
 * datetime
 * bio
+* scipy
+* lifelines
 
 ### R Dependecies 
 * tabplot
