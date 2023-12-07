@@ -127,7 +127,13 @@ iqtree2 --alrt 1000 --B 1000 --s XXX.mafft.fa
 treetime --aln alignment.file.mafft.fa --tree treefile.nwk --dates datefile.csv -outdir /path/to/output/directory --coalescent skyline --max-iter 10
 ```
 
-### Mugration
+## Mugration Tree Annotation
+
+```
+treetime mugration --tree treefile.nwk --states metadata-containing-file.csv --attribute location
+```
+
+### Positive Selection (episodic and pervasive)
 ```
 hyphy meme --alignment alignment-file.mafft.fa --tree tree-file.nwk
 
