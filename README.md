@@ -70,56 +70,44 @@ Through a single center retrospective cohort study, we examined the RSV genetic 
 ### Figure 1A
 <a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Epidemiology-Data/Fig-1-NREVSS-2010-2020.csv"> CDC (NREVSS) National RSV Epidemiology Dataset [July 2010 - June 2020] </a> 
 
+<a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Epidemiology-Data/Fig-1-NREVSS-062020-062021-test-det-pp.zip"> CDC (NREVSS) National RSV Epidemiology Dataset [June 2020 - June 2021] </a> 
 
-<a href=""> CDC (NREVSS) National RSV Epidemiology Dataset [June 2020 - May 2023] </a> 
-
-### Supplementary Figure 1A
-<a href=""> CDC (NREVSS) HHS Region 5 RSV Epidemiology Dataset [June 2020 - March 2023] </a> 
+<a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Epidemiology-Data/Fig-1-NREVSS-062021-present-test-det-pp.zip"> CDC (NREVSS) National RSV Epidemiology Dataset [June 2021 - March 2023] </a> 
 
 ### Figure 1B
-<a href="">Chicago Department of Public Health (CDPH) Weely Aggregated Respiratory Virus Data </a> 
+<a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Epidemiology-Data/Fig1-RSVNET-Hospitalization.csv.zip">Chicago Department of Public Health (CDPH) Weekly Aggregated Respiratory Virus Data </a> 
 
 ### Figure 5
-<a href=""> RSV-B 1957 - 2023 Fusion MEME data </a> 
+<a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Positive-Selection/102423-RSVB-F-USA.MEME.csv"> RSV-B 1957 - 2023 Fusion MEME data </a> 
 
-<a href=""> RSV-B 1957 - 2023 Fusion FUBAR data </a> 
+<a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Positive-Selection/102423-RSVB-F-USA.MEME.csv"> RSV-B 1957 - 2023 Fusion FUBAR data </a> 
 
-<a href=""> RSV-B 2018 - 2023 Fusion MEME data </a> 
+<a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Positive-Selection/102423-RSVB-F-5yr.MEME.csv"> RSV-B 2018 - 2023 Fusion MEME data </a> 
 
-<a href=""> RSV-B 2018 - 2023 Fusion FUBAR data </a> 
-
-<a href=""> Binding site locations - Palivizumab </a> 
-
-### Supplementary Figure 6 
-
-<a href=""> Binding site locations - Nirsevimab </a> 
-
-<a href=""> Binding site locations - Clesrovimab </a> 
-
-<a href=""> Binding site locations - Suptavumab </a> 
+<a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Positive-Selection/102423-RSVB-F-5yr.FUBAR.csv"> RSV-B 2018 - 2023 Fusion FUBAR data </a> 
 
 
 ### Supplementary Figure 5
-<a href=""> RSV-B M2-1 MEME data </a> 
+<a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Positive-Selection/080223-M2-1-MEME.csv"> RSV-B M2-1 MEME data </a> 
 
-<a href=""> RSV-B M2-2 MEME data </a> 
+<a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Positive-Selection/080223-M2-2-MEME.csv"> RSV-B M2-2 MEME data </a> 
 
-<a href=""> RSV-B Attachment Glycoprotein (G) MEME data</a> 
+<a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Positive-Selection/07192022-G-MEME-RSVB.csv"> RSV-B Attachment Glycoprotein (G) MEME data</a> 
 
-<a href=""> RSV-B Attachment Polymerase (L) MEME data </a> 
+<a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Positive-Selection/080223-L-MEME.csv"> RSV-B Attachment Polymerase (L) MEME data </a> 
 
 # Phylogenetic Data Sets #
-<a href=""> USA RSV-A NCBI WGS Information </a> 
+<a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Sequence-Info/041223-RSVA-USA-NMH-metadata.csv"> USA RSV-A NCBI WGS Information </a> 
 
-<a href=""> Global RSV-A NCBI WGS Information </a> 
+<a href="041223-RSVA-Global-NMH-metadata-location.csv](https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Sequence-Info/041223-RSVA-Global-NMH-metadata-location.csv"> Global RSV-A NCBI WGS Information </a> 
 
-<a href=""> USA RSV- NCBI WGS Information </a> 
+<a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Sequence-Info/041223-RSVB-USA-metadata.csv"> USA RSV-B NCBI WGS Information </a> 
 
-<a href=""> Global RSV-B NCBI WGS Information </a> 
+<a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Sequence-Info/102223-RSVB-Global-NMH-metadata-dates%20(2).csv"> Global RSV-B NCBI WGS Information - Dates </a> 
 
-<a href=""> Global RSV-B NCBI Fusion Information </a> 
+<a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Sequence-Info/111623-RSVF_G%202.zip"> Global RSV-B NCBI Fusion Information </a> 
 
-<a href=""> Global RSV-B NCBI Attachment Glycoprotein (G) Information </a> 
+<a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Sequence-Info/111623-RSVF_G%202.zip"> Global RSV-B NCBI Attachment Glycoprotein (G) Information </a> 
 
 
 # Phylogenetic Analysis
@@ -141,7 +129,20 @@ treetime --aln alignment.file.mafft.fa --tree treefile.nwk --dates datefile.csv 
 
 ### Mugration
 ```
-treetime mugration --tree 080723-GISAID_col-BOL.mafft.fa.treefile --states 080823-bolivia-only-metadata.csv --attribute location
+hyphy meme --alignment alignment-file.mafft.fa --tree tree-file.nwk
+
+hyphy fubar --alignment alignment-file.mafft.fa --tree tree-file.nwk
+```
+
+### Sequence Annotation Tool - VIGOR (Viral Genome ORF Reader)
+```
+vigor4 -i /directory/to/alignment/file/alignment-file.mafft.fa -o vigor -d /directory/to/vigor/files/VIGOR_DB-master/Reference_DBs/rsv_db
+```
+
+### Positive Selection 
+```
+hyphy -i meme
+hyphy -i fubar
 ```
 
 
