@@ -68,7 +68,7 @@ Through a single center retrospective cohort study, we examined the RSV genetic 
 
 # Epidemiological Data Sets #
 ### Figure 1A
-<a href=""> CDC (NREVSS) National RSV Epidemiology Dataset [July 2010 - June 2020] </a> 
+<a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Epidemiology-Data/Fig-1-NREVSS-2010-2020.csv"> CDC (NREVSS) National RSV Epidemiology Dataset [July 2010 - June 2020] </a> 
 
 
 <a href=""> CDC (NREVSS) National RSV Epidemiology Dataset [June 2020 - May 2023] </a> 
