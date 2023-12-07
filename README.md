@@ -102,7 +102,7 @@ Through a single center retrospective cohort study, we examined the RSV genetic 
 # Phylogenetic Data Sets #
 <a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Sequence-Info/041223-RSVA-USA-NMH-metadata.csv"> USA RSV-A NCBI WGS Information </a> 
 
-<a href="041223-RSVA-Global-NMH-metadata-location.csv](https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Sequence-Info/041223-RSVA-Global-NMH-metadata-location.csv"> Global RSV-A NCBI WGS Information </a> 
+<a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Sequence-Info/041223-RSVA-Global-NMH-metadata-location.csv"> Global RSV-A NCBI WGS Information </a> 
 
 <a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Sequence-Info/041223-RSVB-USA-metadata.csv"> USA RSV-B NCBI WGS Information </a> 
 
