@@ -50,23 +50,23 @@ Through a single center retrospective cohort study, we examined the RSV genetic 
 
 ### R Dependecies 
 * tabplot
-* readxl
-* dplyr
-* lubridate
-* ggplot2
-* tidyr
-* ggsci
+* readxl (v.1.4.3)
+* dplyr (v.1.1.2)
+* lubridate (v.1.9.2)
+* ggplot2 (v.3.4.3)
+* tidyr (v.1.3.0)
+* ggsci 
 * ggpubr
 * FastaUtils
-* ape
-* TreeTools
-* phylotools
-* gtsummary
-* MASS
-* car
-* gt
-* OddsPlotty
-* effects
+* ape (v.5.7-1)
+* TreeTools (v.1.10.0)
+* phylotools (v.1.9-16)
+* gtsummary (v.1.7.2)
+* MASS (v.7.3-58.2)
+* car 
+* gt (v.0.9.0)
+* OddsPlotty 
+* effectsize (v.0.8.5)
 
 # Epidemiological Data Sets #
 ### Figure 1A
