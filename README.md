@@ -113,7 +113,7 @@ Through a single center retrospective cohort study, we examined the RSV genetic 
 <a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Sequence-Info/111623-RSVF_G%202.zip"> Global RSV-B NCBI Attachment Glycoprotein (G) Information </a> 
 
 # Phylogenetic Analysis
-## Note: the timing to run the phylogenetic analysis is dependent on the number of sequences in the alignment. Run time has varied from 30 minutes to 3 days from alignment to ML phylogenetic construction
+#### Note: the timing to run the phylogenetic analysis is dependent on the number of sequences in the alignment. Run time has varied from 30 minutes to 3 days from alignment to ML phylogenetic construction
 
 ### Installing Packages and Activating Environment
 ```
