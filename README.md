@@ -114,7 +114,7 @@ Through a single center retrospective cohort study, we examined the RSV genetic 
 
 
 # Phylogenetic Analysis
-##Note: the timing to run the phylogenetic analysis is dependent on the number of sequences in the alignment. Run time has varied from 30 minutes to 3 days from alignment to ML phylogenetic construction
+## Note: the timing to run the phylogenetic analysis is dependent on the number of sequences in the alignment. Run time has varied from 30 minutes to 3 days from alignment to ML phylogenetic construction
 ### Alignment
 ```
 mafft --auto --thread -auto XXX.fasta > XXX.mafft.fa
