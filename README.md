@@ -55,17 +55,17 @@ Through a single center retrospective cohort study, we examined the RSV genetic 
 * lubridate (v.1.9.2)
 * ggplot2 (v.3.4.3)
 * tidyr (v.1.3.0)
-* ggsci 
-* ggpubr
+* ggsci (v.3.0.0)
+* ggpubr (v.0.6.0)
 * FastaUtils
 * ape (v.5.7-1)
 * TreeTools (v.1.10.0)
 * phylotools (v.1.9-16)
 * gtsummary (v.1.7.2)
 * MASS (v.7.3-58.2)
-* car 
+* car (v.3.1-2)
 * gt (v.0.9.0)
-* OddsPlotty 
+* OddsPlotty (v.1.0.2)
 * effectsize (v.0.8.5)
 
 # Epidemiological Data Sets #
