@@ -39,15 +39,14 @@ Through a single center retrospective cohort study, we examined the RSV genetic 
 
 # Dependencies
 ### Python Dependencies
-* Pandas
-* Numpy
-* matplotlib
-* seaborn
-* tableone
-* datetime
-* bio
-* scipy
-* lifelines
+* Pandas (v.1.1.3)
+* Numpy (v.1.19.2)
+* matplotlib (v.3.3.2)
+* seaborn (v.0.11.0)
+* tableone (v.0.7.12)
+* bio (v.1.79)
+* scipy (v.1.5.2)
+* lifelines (v.0.27.7)
 
 ### R Dependecies 
 * tabplot
